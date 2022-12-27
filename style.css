@@ -95,13 +95,26 @@ animation-direction: reverse;
 color: rgb(246, 2, 71);
 }
 .fab.fa-linkedin:hover{
-  color: rgb(64, 64, 252);
+  color: rgb(93, 93, 245);
 }
 .fab.fa-twitter:hover{
-  color: rgb(77, 77, 249);
+  color: rgb(98, 98, 255);
 }
 .fab.fa-youtube:hover{
   color: red;
+}
+
+.fab.fa-instagram{
+  color: white;
+}
+.fab.fab.fa-linkedin{
+  color: white;
+}
+.fab.fa-twitter{
+  color: white;
+}
+.fab.fa-youtube{
+  color: white;
 }
 
 
@@ -185,15 +198,16 @@ input[type="checkbox"]{
 
 
 .middle-box{
-    height: 30rem;
+    height:84rem;
     background-color: #dbdbdbe3;
     width: 100%;
     text-align: center;
     font-size: 32px;
     font-weight: 600;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: 34px;
+    margin-top: 52px;
 }
+
 
 .middle-box img{
     width: 180px;
